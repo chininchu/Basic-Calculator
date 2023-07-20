@@ -16,9 +16,16 @@ public class Calculator {
 
     public int add(int a, int b) {
 
-        int sum = a + b;
+        return a + b;
 
-        return sum;
+
+    }
+
+
+    public int subtract(int a, int b) {
+
+
+        return a - b;
 
 
     }
